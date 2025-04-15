@@ -216,7 +216,9 @@ const styles = StyleSheet.create({
     paddingTop: 10,
     paddingBottom: 10,
   },
-
+  /* Author: Hoàng Hải Lý
+   * user: hhly2210
+   */
   categoryItem: {
     marginRight: 10,
   },

@@ -81,6 +81,9 @@ const styles = StyleSheet.create({
     borderColor: "#ccc",
     borderRadius: 5,
   },
+  /* Author: Hoàng Hải Lý
+   * user: hhly2210
+   */
   searchIcon: {
     color: "#ccc",
     position: "absolute",
